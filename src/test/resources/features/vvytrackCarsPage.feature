@@ -28,7 +28,7 @@ Feature: Vvytrack cars page functionality verification
       Scenario: User sees Refresh Button on the left side of the Reset button
 
         Then User should be able to see Refresh Button on the left side of the Reset button
-  @wip
+
       Scenario: User sees Grid setting button on the right side of the reset button
 
         Then User should see Grid Settings on the right side of the Reset button
